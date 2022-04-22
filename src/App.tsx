@@ -1,11 +1,11 @@
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
 	return (
 		<div className='App'>
-			<h1>Hello World!</h1>
+			<h1>TASKIFY</h1>
 		</div>
 	);
-}
+};
 
 export default App;
