@@ -17,6 +17,7 @@
 	color: white;
 	z-index: 1;
 	text-align: center;
+	letter-spacing: 5px;
 }
 
 @media (max-width: 800px) {
