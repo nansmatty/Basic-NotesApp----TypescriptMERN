@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import InputField from './components/InputField';
-import { Todo } from './model';
+import { Todo } from './models/model';
 
 const App: React.FC = () => {
 	const [todo, setTodo] = useState<string>('');
